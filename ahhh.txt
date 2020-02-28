@@ -2,3 +2,8 @@ that's hot
 this is a story all about how
 my life got flipped turned upside down
 genie got cake
+<<<<<<< HEAD
+=======
+it's rewind time
+rub the lamp (o u o)
+>>>>>>> 0cbf0728c9d4f8e5aaae2d4035bbf938c5e86c6f
