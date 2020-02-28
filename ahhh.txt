@@ -1,10 +1,9 @@
 that's hot
 this is a story all about how
 my life got flipped turned upside down
-<<<<<<< HEAD
-genie got cake
 =======
 genie got cake
+=======
 it's rewind time
 rub the lamp (o u o)
->>>>>>> eebfb73e9002fcd5321bfbb4d2f5d2a5c146b6c7
+=======
